@@ -18,3 +18,7 @@ https://en.wikipedia.org/wiki/Dutch_national_flag_problem
 6- Implementing a http router using a Trie
 
 7- Finding the square root of a number using binary search
+
+## References
+
+https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256
